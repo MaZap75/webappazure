@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "qQ9OkioVI8xADPwDs1M/wYIM10wq6OdR5qGbDFkzzc8=",
+  "Source": "MarcoZappullaWebAppSoloweb",
+  "BasePath": "_content/MarcoZappullaWebAppSoloweb",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MarcoZappullaWebAppSoloweb/wwwroot",
+      "Source": "MarcoZappullaWebAppSoloweb",
+      "ContentRoot": "/home/marco/MarcoZappullaWebAppSoloweb/wwwroot/",
+      "BasePath": "_content/MarcoZappullaWebAppSoloweb",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/home/marco/MarcoZappullaWebAppSoloweb/wwwroot/index.html",
+      "SourceId": "MarcoZappullaWebAppSoloweb",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/marco/MarcoZappullaWebAppSoloweb/wwwroot/",
+      "BasePath": "_content/MarcoZappullaWebAppSoloweb",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/index.html"
+    }
+  ]
+}
